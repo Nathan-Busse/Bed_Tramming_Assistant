@@ -3,6 +3,8 @@ Bed leveling assistant for the Creality Ender 3 v2
 
 # WARNING 
 This code is ONLY for the "Creality Ender 3 v2."
+
+
 DO NOT open the Gcode in Cura or any other slicer of your choice.
 
 # What does it do?
