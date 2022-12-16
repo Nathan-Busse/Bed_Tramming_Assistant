@@ -1,4 +1,4 @@
-# Bed-leveling-assistant-
+
 Bed leveling assistant for the Creality Ender 3 v2
 
 # WARNING 
@@ -24,6 +24,6 @@ Just copy the Gcode onto your SD card. Now off to our printer
 
 Step 3.
 
-With the SD card inserted and the printer switched we can go to the print option and select the Bed level assistant Gcode file and Watch the magic happen!
+With the SD card inserted and the printer switched we can go to the print option and select the Bed Level Assistant.Gcode file and watch the magic happen!
 
 # Made by Nathan Busse
