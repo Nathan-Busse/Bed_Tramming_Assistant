@@ -1,6 +1,6 @@
-Bed leveling Assistant for Creality Ender 3 v2 family of printer by Nathan Busse
+Bed leveling Assistant for Creality Ender 3 v2 printer by Nathan Busse
 
-; This code will help give accurate bed leveling and will move the bed and nozzile automaticaly and will wait for you all you have to do is hit the 	 pause button to let it know that you are ready to move to the next corner. The nozzle will infact move directly above the bolt of the leveling knob.to stop the code just hit stop on your printer otherwise it will go on for ever. NOTE that this code is only for the CREALITY ENDER 3 v2 Printer
+; This code will help give accurate bed leveling and will move the bed and nozzile automaticaly and will wait for you all you have to do is hit the pause button to let it know that you are ready to move to the next corner. The nozzle will infact move directly above the bolt of the leveling knob. To stop the code just hit stop on your printer otherwise it will go on for ever. NOTE that this code is only for the CREALITY ENDER 3 v2 Printer
 
 G90 ; Use absolute positioning
 G28 ; Home all axes
