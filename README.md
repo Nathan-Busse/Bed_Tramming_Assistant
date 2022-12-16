@@ -9,7 +9,8 @@ DO NOT open the Gcode in Cura or any other slicer of your choice.
 
 # What does it do and how to operate the printer?
 
-This code will help give accurate bed leveling and will move the bed and nozzile automaticaly and will wait for you all you have to do is hit the pause button to let it know that you are ready to move to the next corner. The nozzle will infact move directly above the bolt of the leveling knob. Pritty cool huh? 
+This code will help give accurate bed leveling and will move the bed and nozzle automatically and will wait for you. 
+All you have to do is hit the pause button to let it know that you are ready to move to the next corner. The nozzle will infact move directly above the bolt of the leveling knob. Pretty cool huh? 
 
 To stop the code just hit stop on your printer otherwise it will go on for ever.
 # How to get things started.
@@ -20,7 +21,8 @@ Clone the Github repo and extract it.
 
 Step 2.
 
-Just copy the file onto your SD card. Now off to our printer...
+Just copy the file straight onto your SD card. 
+Now off to our printer...
 
 Step 3.
 
