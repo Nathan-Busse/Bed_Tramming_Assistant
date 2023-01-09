@@ -4,10 +4,12 @@
 
 
 
-G90
-M140 S60 ; Heatup bed to 60 degrees
-G28 ; Home all axis
-M25 ; 
+M190 S60 ; Heat up bed to 60 degrees
+G90 ; Use absolute positioning
+G28 ; Home all axes
+M25 ; Pause print
+
+
 G1 Z5 ; Lift Z axis
 G1 X32 Y36 F3000; Move to Position 1
 G1 Z0.1
@@ -172,9 +174,11 @@ G1 Z5 ; Lift Z axis
 G1 X32 Y36 F3000; Move to Position 1
 G1 Z0.1
 
+M140 S0 ; Cool down bed
 M25 ; Pause print
-G28;
-M84 ; disable motors
-M140 S0 ; Cool bed down
+G28 ; Home all axes
+M84 ; Disable motors
+
+
 
 
