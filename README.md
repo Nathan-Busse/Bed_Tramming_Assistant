@@ -12,7 +12,8 @@ DO NOT open the Gcode in Cura or any other slicer of your choice.
 This code will help give accurate bed leveling and will move the bed and nozzle automatically and will wait for you. 
 All you have to do is hit the pause button to let it know that you are ready to move to the next corner. The nozzle will infact move directly above the bolt of the leveling knob. Pretty cool huh? 
 
-To stop the code just hit stop on your printer otherwise it will go on for ever.
+On startup the bed will preheat itself to 60 degrees and will position itself once it has reached temperature. The script will cycle 4 times and will home itself automatically aswell cooldown. You just have to press puase one more time to continue out to the menu. You are all done and can now happily start printing.
+
 # How to get things started.
 
 Step 1.
