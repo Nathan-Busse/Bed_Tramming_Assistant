@@ -11,7 +11,7 @@ DO NOT open the *Bed_Tramming_Assistant.Gcode* file in Cura or any other slicer 
 
 This code will help give accurate bed tramming and will move the bed and nozzle automatically and will wait for you.
 
-#------*Operating the printer*------
+# ------*Operating the printer*------
 
 All you have to do is hit the pause button to let it know that you are ready to move to the next corner. The nozzle will infact move directly above the bolt of the leveling knob. Pretty cool huh? 
 
